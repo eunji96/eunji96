@@ -1,7 +1,7 @@
 <div align="center">
 
  <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=PYO%20SEHUN🤭&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Welcome%20to%20my%20Github🤓&fontSize=50&fontColor=auto&desc=-Eunji%20Kim-&descSize=20&descAlign=75&descAlignY=65)
  
 <!-- 방문자 수-->
 Today / All
@@ -9,7 +9,7 @@ Today / All
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSehunPyo%2F&count_bg=%23A0BCD5&title_bg=%237C94AE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- git stats -->
-![SehunPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SehunPyo&show_icons=true&theme=radical)
+![EUNJIKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJi-Kim&show_icons=true&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SehunPyo&layout=compact&theme=tokyonight)
 ***
