@@ -3,20 +3,7 @@
  <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Welcome%20to%20my%20Github🤓&fontSize=50&fontColor=auto&desc=-Eunji%20Kim-&descSize=20&descAlign=75&descAlignY=65)
  
-<!-- 방문자 수-->
-Today / All
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunji96%2F&count_bg=%23A0BCD5&title_bg=%237C94AE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- git stats -->
-![EUNJI96's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJi96&show_icons=true&theme=onedark)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji96&layout=compact&theme=dracula)
-***
-
-
-
-### 🥚My🥚
+ ### 🥚My🥚
 Hi There! I'm a backend web developer.
 
 My main skills are Java, Spring, Oracle and HTML, CSS.
@@ -50,6 +37,19 @@ https://simpleicons.org/ 이 사이트에서 검색해보고 나오는 것은 �
 🌒 배달의 민족 웹버전
 
 프로젝트 깃허브 : https://github.com/eunji96/team_a
+***
+ 
+ 
+ 
+<!-- 방문자 수-->
+Today / All
+ 
+ <!-- git stats -->
+![EUNJI96's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJi96&show_icons=true&theme=onedark)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji96&layout=compact&theme=dracula)
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunji96%2F&count_bg=%23A0BCD5&title_bg=%237C94AE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div> 
 
