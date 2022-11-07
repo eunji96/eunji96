@@ -9,9 +9,9 @@ Today / All
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunji96%2F&count_bg=%23A0BCD5&title_bg=%237C94AE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- git stats -->
-![EUNJI96's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJi96&show_icons=true&theme=onedar)
+![EUNJI96's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJi96&show_icons=true&theme=onedark)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji96&layout=compact&theme=dracul)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji96&layout=compact&theme=dracula)
 ***
 
 
