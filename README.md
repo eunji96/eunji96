@@ -52,6 +52,8 @@ Today / All
 
 ![EUNJI96's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJi96&show_icons=true&theme=onedark)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer) 
+ 
 </div> 
 
 
